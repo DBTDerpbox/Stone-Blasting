@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Stone Blasting",
+        "description": "Allows for stone and smooth stone to be used in a blast furnace",
+        "icon": {
+            "item": "stone"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:dbtderpbox",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
