@@ -2,7 +2,7 @@
 
 Stone Blasting is a simple crafting tweak that allows for cobblestone to be used in a Blast Furnace.
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.13--1.17-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/stone-blasting?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/stone-blasting?style=for-the-badge
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.13--1.17-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/stone-blasting?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/stone-blasting?style=for-the-badge)
 
 ### Crafting Tweaks
 
