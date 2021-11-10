@@ -8,7 +8,7 @@ Stone Blasting is a simple crafting tweak that allows for cobblestone to be used
 
 This datapack is part of Derpbox's Crafting Tweaks collection.
 
-You can find more info about it [here.](https://github.com/DBTDerpbox/dbtderpbox/crafting-tweaks.md)
+You can find more info about it [here.](https://github.com/DBTDerpbox/dbtderpbox/blob/main/crafting-tweaks.md)
 
 ### Versions
 
