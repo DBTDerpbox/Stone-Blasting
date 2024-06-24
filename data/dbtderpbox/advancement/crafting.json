@@ -1,14 +1,14 @@
 {
     "display": {
-        "title": "Stone Blasting V1.1",
-        "description": "Allows for stone to be smelted in a blast furnace",
         "icon": {
-            "item": "stone"
+            "id": "crafting_table"
         },
+        "title": "Crafting Tweaks",
+        "description": "Derpbox's Crafting Tweaks",
         "announce_to_chat": false,
         "show_toast": false
     },
-    "parent": "dbtderpbox:crafting",
+    "parent": "global:dbtderpbox",
     "criteria": {
         "trigger": {
             "trigger": "minecraft:tick"
